@@ -1,1 +1,18 @@
 \babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1.}Непрерывное и дискретное преобразование Фурье}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1.}Истнинный Фурье - образ.}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2.}Численное интегрирование.}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3.}Восстановление волны.}{4}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1.}Влияние величины шага и размера промежутка}{6}{subsubsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.4.}Дискретное преобразование Фурье (использование DFT)}{8}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1.}Найденный образ и восстановленная функция.}{8}{subsubsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.5.}Приближение непрерывного с помощью DFT}{9}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6.}Влияние шага и размера промежутка}{11}{subsection.1.6}%
+\contentsline {section}{\numberline {2.}Сэмплирование}{11}{section.2}%
+\contentsline {subsection}{\numberline {2.1.}Сэмплирование синусов}{11}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.}Восстановление.}{13}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2.}Влияние шага дискретизации}{14}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2.}Сэмплирование sinus cardinalis}{17}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1.}Сэмплирование синус кардиналис}{18}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2.}Фурье-образ синус кардиналис и восстановленного сигнала}{20}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3.}Выводы}{22}{subsubsection.2.2.3}%

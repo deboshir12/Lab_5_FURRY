@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.5)  1 MAY 2024 22:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.5)  23 MAY 2024 19:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -781,7 +781,7 @@ Package hyperref Info: Link coloring ON on input line 123.
 \openout2 = `unformal_title.aux'.
 
  (./unformal_title.tex
-<media/ITMO_logo.png, id=5, 1043.9pt x 411.5375pt>
+<media/ITMO_logo.png, id=73, 1043.9pt x 411.5375pt>
 File: media/ITMO_logo.png Graphic file (type png)
 <use media/ITMO_logo.png>
 Package pdftex.def Info: media/ITMO_logo.png  used on input line 43.
@@ -804,25 +804,224 @@ l.129
 ]
 \openout2 = `content.aux'.
 
- (./content.tex) [2
+ (./content.tex (./1.tex
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_20/wave_func.png, id=112, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_20/wave_func.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_20/wave_func.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_20/wave_func.png  used on input line 24.
+(pdftex.def)             Requested size: 500.76852pt x 312.97699pt.
+ [2
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_20/wave_func.png>]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_20/true_image.png, id=127, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_20/true_image.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_20/true_image.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_20/true_image.png  used on input line 42.
+(pdftex.def)             Requested size: 500.76852pt x 312.97699pt.
+ [3
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_20/true_image.png>]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_20/num_image.png, id=138, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_20/num_image.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_20/num_image.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_20/num_image.png  used on input line 54.
+(pdftex.def)             Requested size: 500.76852pt x 312.97699pt.
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_20/cmp_restored.png, id=139, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_20/cmp_restored.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_20/cmp_restored.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_20/cmp_restored.png  used on input line 66.
+(pdftex.def)             Requested size: 500.76852pt x 312.97699pt.
+ [4
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_20/num_image.png>] [5 </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_20/cmp_restored.png>]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_50/cmp_restored.png, id=152, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_50/cmp_restored.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_50/cmp_restored.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_50/cmp_restored.png  used on input line 80.
+(pdftex.def)             Requested size: 500.76852pt x 312.97699pt.
+ [6
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/1000_50/cmp_restored.png>]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/5000_50/cmp_restored.png, id=160, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/5000_50/cmp_restored.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/5000_50/cmp_restored.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/5000_50/cmp_restored.png  used on input line 90.
+(pdftex.def)             Requested size: 500.76852pt x 312.97699pt.
+ [7
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/5000_50/cmp_restored.png>]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/fft_10000/dft_image.png, id=167, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/fft_10000/dft_image.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/fft_10000/dft_image.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/fft_10000/dft_image.png  used on input line 120.
+(pdftex.def)             Requested size: 400.61633pt x 250.38489pt.
+ [8
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/fft_10000/dft_image.png>]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/fft_10000/cmp_func.png, id=177, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/fft_10000/cmp_func.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/fft_10000/cmp_func.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/fft_10000/cmp_func.png  used on input line 128.
+(pdftex.def)             Requested size: 400.61633pt x 250.38489pt.
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/fft_10000/dft_cont_image.png, id=178, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/fft_10000/dft_cont_image.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/fft_10000/dft_cont_image.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/fft_10000/dft_cont_image.png  used on input line 148.
+(pdftex.def)             Requested size: 400.61633pt x 250.38489pt.
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/fft_10000/num_restored.png, id=179, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/fft_10000/num_restored.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/fft_10000/num_restored.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/fft_10000/num_restored.png  used on input line 156.
+(pdftex.def)             Requested size: 400.61633pt x 250.38489pt.
+ [9
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/fft_10000/cmp_func.png>] [10 </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/fft_10000/dft_cont_image.png> </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/fft_10000/num_restored.png>]) (./2.tex
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_1/source_func.png, id=196, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_1/source_func.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_1/source_func.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_1/source_func.png  used on input line 15.
+(pdftex.def)             Requested size: 500.76852pt x 312.97699pt.
+ [11
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_1/source_func.png>]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_1/sampled_func.png, id=204, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_1/sampled_func.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_1/sampled_func.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_1/sampled_func.png  used on input line 25.
+(pdftex.def)             Requested size: 400.61633pt x 250.38489pt.
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_1/cmp_func.png, id=205, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_1/cmp_func.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_1/cmp_func.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_1/cmp_func.png  used on input line 33.
+(pdftex.def)             Requested size: 400.61633pt x 250.38489pt.
+ [12
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_1/sampled_func.png> </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_1/cmp_func.png>]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_1/cmp_func_interpolated.png, id=215, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_1/cmp_func_interpolated.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_1/cmp_func_interpolated.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_1/cmp_func_interpolated.png  used on input line 49.
+(pdftex.def)             Requested size: 500.76852pt x 312.97699pt.
+ [13
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_1/cmp_func_interpolated.png>]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_2/cmp_func.png, id=223, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_2/cmp_func.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_2/cmp_func.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_2/cmp_func.png  used on input line 63.
+(pdftex.def)             Requested size: 350.53644pt x 219.08333pt.
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_2/cmp_func_interpolated.png, id=224, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_2/cmp_func_interpolated.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_2/cmp_func_interpolated.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_2/cmp_func_interpolated.png  used on input line 71.
+(pdftex.def)             Requested size: 350.53644pt x 219.08333pt.
+ [14
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_2/cmp_func.png> </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_2/cmp_func_interpolated.png>]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_3/cmp_func.png, id=233, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_3/cmp_func.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_3/cmp_func.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_3/cmp_func.png  used on input line 81.
+(pdftex.def)             Requested size: 350.53644pt x 219.08333pt.
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_3/cmp_func_interpolated.png, id=234, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_3/cmp_func_interpolated.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_3/cmp_func_interpolated.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_3/cmp_func_interpolated.png  used on input line 89.
+(pdftex.def)             Requested size: 350.53644pt x 219.08333pt.
+ [15
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_3/cmp_func.png> </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_3/cmp_func_interpolated.png>]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_6/cmp_func.png, id=243, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_6/cmp_func.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_6/cmp_func.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_6/cmp_func.png  used on input line 99.
+(pdftex.def)             Requested size: 400.61633pt x 250.38489pt.
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_6/cmp_func_interpolated.png, id=244, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_6/cmp_func_interpolated.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_6/cmp_func_interpolated.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_6/cmp_func_interpolated.png  used on input line 107.
+(pdftex.def)             Requested size: 400.61633pt x 250.38489pt.
+ [16
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_6/cmp_func.png> </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_6/cmp_func_interpolated.png>]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/source_func.png, id=253, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/source_func.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/source_func.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/source_func.png  used on input line 127.
+(pdftex.def)             Requested size: 500.76852pt x 312.97699pt.
+ [17
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/source_func.png>]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/cmp_func.png, id=261, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/cmp_func.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/cmp_func.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/cmp_func.png  used on input line 139.
+(pdftex.def)             Requested size: 400.61633pt x 250.38489pt.
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/cmp_func_interpolated.png, id=262, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/cmp_func_interpolated.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/cmp_func_interpolated.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/cmp_func_interpolated.png  used on input line 147.
+(pdftex.def)             Requested size: 400.61633pt x 250.38489pt.
+ [18
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/cmp_func.png> </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/cmp_func_interpolated.png>]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_5/cmp_func.png, id=272, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_5/cmp_func.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_5/cmp_func.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_5/cmp_func.png  used on input line 159.
+(pdftex.def)             Requested size: 400.61633pt x 250.38489pt.
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_5/cmp_func_interpolated.png, id=273, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_5/cmp_func_interpolated.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_5/cmp_func_interpolated.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_5/cmp_func_interpolated.png  used on input line 167.
+(pdftex.def)             Requested size: 400.61633pt x 250.38489pt.
+ [19
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_5/cmp_func.png> </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_5/cmp_func_interpolated.png>]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/image.png, id=282, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/image.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/image.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/image.png  used on input line 181.
+(pdftex.def)             Requested size: 400.61633pt x 250.38489pt.
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/restored_image.png, id=283, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/restored_image.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/restored_image.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/restored_image.png  used on input line 187.
+(pdftex.def)             Requested size: 400.61633pt x 250.38489pt.
+ [20
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/image.png> </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_4/restored_image.png>]
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_5/image.png, id=292, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_5/image.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_5/image.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_5/image.png  used on input line 197.
+(pdftex.def)             Requested size: 400.61633pt x 250.38489pt.
+</Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_5/restored_image.png, id=293, 578.16pt x 361.35pt>
+File: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_5/restored_image.png Graphic file (type png)
+<use /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_5/restored_image.png>
+Package pdftex.def Info: /Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_5/restored_image.png  used on input line 203.
+(pdftex.def)             Requested size: 400.61633pt x 250.38489pt.
+ [21
+
+ </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_5/image.png> </Users/nikolajprovorov/Yandex.Disk-368690@edu.itmo.ru.localized/Lab_5_FURRY/plots/interpolation_5/restored_image.png>])) [22
 
 ] (./main.aux (./unformal_title.aux) (./content.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: 0F724256C555B05809580A9B057E0B43;5071.
  ) 
 Here is how much of TeX's memory you used:
- 14068 strings out of 476025
- 220742 string characters out of 5790017
- 1853388 words of memory out of 5000000
- 34244 multiletter control sequences out of 15000+600000
- 524267 words of font info for 58 fonts, out of 8000000 for 9000
+ 14386 strings out of 476025
+ 243648 string characters out of 5790017
+ 1857388 words of memory out of 5000000
+ 34451 multiletter control sequences out of 15000+600000
+ 527496 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,7n,95p,486b,469s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfxc1440.pfb>
-Output written on main.pdf (3 pages, 123390 bytes).
+ 75i,9n,95p,697b,469s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfxc1440.pfb>
+Output written on main.pdf (23 pages, 1434031 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 53 compressed objects within 1 object stream
- 4 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 382 PDF objects out of 1000 (max. 8388607)
+ 271 compressed objects within 3 object streams
+ 78 named destinations out of 1000 (max. 500000)
+ 307 words of extra memory for PDF output out of 10000 (max. 10000000)
 
